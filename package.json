@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src",
     "dev": "nodemon src",
-    "build": "my-framework build --output public"
+    "build": "node build --output public"
     
   },
   "keywords": [],
